@@ -1,0 +1,36 @@
+.display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: mediumslateblue;
+    height: 55%;
+    font-size: 20px;
+    border: 2px solid mediumslateblue;
+    border-radius: 10px;
+}
+
+.displayValue {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.input {
+    text-align: center;
+    width: 100px;
+    font-size: 20px;
+    border: 2px solid mediumslateblue;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.errorInput {
+    text-align: center;
+    background-color: indianred;
+    width: 100px;
+    font-size: 20px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-left: 10px;
+}

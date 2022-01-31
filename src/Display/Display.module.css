@@ -1,0 +1,43 @@
+.displayReset {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    height: 55%;
+    font-size: 60px;
+    border: 2px solid mediumslateblue;
+    border-radius: 10px;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: mediumslateblue;
+    height: 55%;
+    font-size: 50px;
+    border: 2px solid mediumslateblue;
+    border-radius: 10px;
+}
+
+.displayString {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: mediumslateblue;
+    height: 55%;
+    font-size: 20px;
+    border: 2px solid mediumslateblue;
+    border-radius: 10px;
+}
+
+.displayRedString {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    height: 55%;
+    font-size: 20px;
+    border: 2px solid mediumslateblue;
+    border-radius: 10px;
+}
